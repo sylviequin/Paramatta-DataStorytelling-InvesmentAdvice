@@ -66,4 +66,10 @@ Parramatta's 20–59 working-age population is lower than Sydney's and Canterbur
 Excel (Pivot Tables, dynamic dashboards, forecasting) · Time-series trend modelling
 
 ---
-*Sylvie Quin (Quynh Huong Nguyen) · Solo project · BUSA2020, Macquarie University*
+### Author
+
+**Quynh Huong Nguyen (Sylvie)**
+
+Macquarie Business School
+
+[LinkedIn](https://www.linkedin.com/in/sylvia-quin/) · 📧 [Email](huongquynh04.vn@gmail.com)
