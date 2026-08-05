@@ -9,7 +9,7 @@
 
 ---
 ### COVER SHEET
-![Cover sheet](coversheet.png)
+![Cover sheet](image/coversheet.png)
 
 ### Overview
 Property investors comparing Sydney LGAs face a tradeoff: premium suburbs (Ku-ring-gai, Hunters Hill, Manly) carry higher overvaluation risk, while outer suburbs may lack growth momentum. This analysis models 30 years of median housing price, population, and employment data to test whether Parramatta offers a genuinely defensible middle ground and delivers a clear buy/hold call, not just a market description.
@@ -51,11 +51,11 @@ Parramatta's 20–59 working-age population is lower than Sydney's and Canterbur
 **Investment recommendation: INVEST.** The preferred profile for a property market is moderate, consistent, positive real price YoY growth (roughly 3–6% annually) — not erratic spikes or long-term decline, since that combination signals sustainable demand and healthier fundamentals with lower risk. Parramatta's growth and volatility profile across this dataset fits that band, particularly for non-strata property.
 
 ### Dashboard preview
-![Parramatta advantages analysis](advantage.png)
-![Parramatta disadvantages analysis](disadvatage.png)
-![Parramatta 2021 reflection and forecast validation](reflection.png)
+![Parramatta advantages analysis](image/advantage.png)
+![Parramatta disadvantages analysis](image/disadvatage.png)
+![Parramatta 2021 reflection and forecast validation](image/reflection.png)
 
-[Full investment report (PDF)](Housing%20property%20analysis%20report.pdf)
+[Full investment report (PDF)](output/Housing%20property%20analysis%20report.pdf)
 
 ### Limitations
 - One population figure in the dashboard (3,370,435) reflects the broader Sydney statistical area, not Parramatta LGA specifically — noted here to avoid misreading it as a suburb-level figure.
