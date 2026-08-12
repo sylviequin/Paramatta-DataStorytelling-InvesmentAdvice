@@ -1,7 +1,7 @@
 # Parramatta Housing Investment Analysis
 ### 30-Year Market Study & Buy/Hold Recommendation
 
-**Is Parramatta a sound property investment relative to Sydney's premium LGAs — and what does 30 years of data say about timing?**
+**Is Parramatta a sound property investment relative to Sydney's premium LGAs and what does 30 years of data say about timing?**
 
 [![Period](https://img.shields.io/badge/Data-1991--2023-5C2D91)](#)
 [![Stack](https://img.shields.io/badge/Built%20with-Excel%20%7C%20Pivot%20Tables-217346)](#)
@@ -23,7 +23,7 @@ Property investors comparing Sydney LGAs face a tradeoff: premium suburbs (Ku-ri
 
 ### Key findings & recommendation
 
-**1. Parramatta shows a smaller nominal-real price gap than premium LGAs — lower overvaluation risk.**
+**1. Parramatta shows a smaller nominal-real price gap than premium LGAs lower overvaluation risk.**
 
 Compared to Ku-ring-gai, Hunters Hill, and Manly, Parramatta's nominal-to-real price gap is narrower, and it recorded the **lowest volatility in YoY growth rate** of the 10 LGAs compared.
 → Lower volatility means fewer scenarios where an investor buys near a local peak and is stuck underwater.
@@ -33,7 +33,7 @@ Compared to Ku-ring-gai, Hunters Hill, and Manly, Parramatta's nominal-to-real p
 Parramatta's population grew ~44% in the period studied -> outpacing Sydney overall and trailing only Canterbury-Bankstown among comparable middle-ring LGAs.
 → Demand growth this broad-based is a stronger buy signal than a short-term price spike.
 
-**3. Houses are outpacing units — a market-segment risk, not a Parramatta-specific one.** 
+**3. Houses are outpacing units >> a market-segment risk, not a Parramatta-specific one.** 
 
 Since 2003, non-strata (house) dwellings have appreciated consistently faster than strata (unit) dwellings, widening the value gap; combined market growth is dampened because strata transactions dominate volume.
 → Practical implication: the "Parramatta is a good investment" call is stronger for non-strata property specifically; unit buyers should expect slower capital growth.
@@ -48,7 +48,7 @@ A linear trend model (median price = 20,514×t + 69,529, fit on 1991–2016 quar
 Parramatta's 20–59 working-age population is lower than Sydney's and Canterbury-Bankstown's, with the largest cohort sitting in the 25–34 "aging basket", this is the group facing the steepest affordability burden entering the market.
 → Longer-term demand depends on Parramatta continuing to attract this cohort via jobs and infrastructure investment, not assumed by default.
 
-**Investment recommendation: INVEST.** The preferred profile for a property market is moderate, consistent, positive real price YoY growth (roughly 3–6% annually) — not erratic spikes or long-term decline, since that combination signals sustainable demand and healthier fundamentals with lower risk. Parramatta's growth and volatility profile across this dataset fits that band, particularly for non-strata property.
+**Investment recommendation: INVEST.** The preferred profile for a property market is moderate, consistent, positive real price YoY growth (roughly 3–6% annually). It's not erratic spikes or long-term decline, since that combination signals sustainable demand and healthier fundamentals with lower risk. Parramatta's growth and volatility profile across this dataset fits that band, particularly for non-strata property.
 
 ### Dashboard preview
 ![Parramatta advantages analysis](image/advantage.png)
