@@ -8,10 +8,9 @@
 [![Verdict](https://img.shields.io/badge/Recommendation-INVEST-2E7D32)](#)
 
 ---
-### COVER SHEET
 ![Cover sheet](image/coversheet.png)
 
-### Overview
+### Business Context
 Property investors comparing Sydney LGAs face a tradeoff: premium suburbs (Ku-ring-gai, Hunters Hill, Manly) carry higher overvaluation risk, while outer suburbs may lack growth momentum. This analysis models 30 years of median housing price, population, and employment data to test whether Parramatta offers a genuinely defensible middle ground and delivers a clear buy/hold call, not just a market description.
 
 ### What I did
